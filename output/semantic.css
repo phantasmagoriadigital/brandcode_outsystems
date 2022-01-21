@@ -1,23 +1,23 @@
-.semantic-theme {
+:root {
           --semantic-spacing-large-padding-left: 16;
   --semantic-spacing-large-padding-right: 16;
   --semantic-spacing-large-padding-top: 0;
   --semantic-spacing-large-padding-bottom: 0;
   --sizing-height: 48px;
   --sizing-icon-size: 24px;
-  --color-primary-default-background-color: #1068eb;
-  --color-primary-default-border-color: #1068eb;
+  --color-primary-default-background-color: #c92a2a;
+  --color-primary-default-border-color: #c92a2a;
   --color-primary-default-font-color: #ffffff;
   --color-primary-default-icon-color: #ffffff;
-  --color-primary-hover-background-color: #105FD5;
-  --color-primary-hover-border-color: #105FD5;
+  --color-primary-hover-background-color: #ab2424;
+  --color-primary-hover-border-color: #ab2424;
   --color-primary-hover-font-color: #e7e7e7;
   --color-primary-hover-icon-color: #e7e7e7;
-  --color-primary-pressed-background-color: #1055BB;
-  --color-primary-pressed-border-color: #1055BB;
+  --color-primary-pressed-background-color: #8c1d1d;
+  --color-primary-pressed-border-color: #8c1d1d;
   --color-primary-pressed-font-color: #CACBCB;
   --color-primary-pressed-icon-color: #CACBCB;
-  --color-primary-focus-background-color: #1068eb;
+  --color-primary-focus-background-color: #c92a2a;
   --color-primary-focus-border-color: #90C2FC;
   --color-primary-focus-font-color: #ffffff;
   --color-primary-focus-icon-color: #ffffff;
@@ -25,11 +25,12 @@
   --color-primary-disabled-border-color: #dee2e6;
   --color-primary-disabled-font-color: #adb5bd;
   --color-primary-disabled-icon-color: #adb5bd;
-  --border-radius-soft: 4;
+  --border-radius-soft: 0;
   --border-radius-sharp: 0;
   --border-radius-rounded: 100;
   --focus: 2;
   --default: 1;
-  --font-family-primary: Roboto;
+  --font-family-primary: Roboto Mono;
   --font-weight: Regular;
+  --font-size: 16;
       }

@@ -35,11 +35,11 @@
     "primary": {
       "default": {
         "background-color": {
-          "value": "#1068eb",
+          "value": "#c92a2a",
           "type": "color"
         },
         "border-color": {
-          "value": "#1068eb",
+          "value": "#c92a2a",
           "type": "color"
         },
         "font-color": {
@@ -53,11 +53,11 @@
       },
       "hover": {
         "background-color": {
-          "value": "#105FD5",
+          "value": "#ab2424",
           "type": "color"
         },
         "border-color": {
-          "value": "#105FD5",
+          "value": "#ab2424",
           "type": "color"
         },
         "font-color": {
@@ -71,11 +71,11 @@
       },
       "pressed": {
         "background-color": {
-          "value": "#1055BB",
+          "value": "#8c1d1d",
           "type": "color"
         },
         "border-color": {
-          "value": "#1055BB",
+          "value": "#8c1d1d",
           "type": "color"
         },
         "font-color": {
@@ -89,7 +89,7 @@
       },
       "focus": {
         "background-color": {
-          "value": "#1068eb",
+          "value": "#c92a2a",
           "type": "color"
         },
         "border-color": {
@@ -127,7 +127,7 @@
   },
   "border-radius": {
     "soft": {
-      "value": 4,
+      "value": 0,
       "type": "borderRadius"
     },
     "sharp": {
@@ -149,12 +149,16 @@
   },
   "font-family": {
     "primary": {
-      "value": "Roboto",
+      "value": "Roboto Mono",
       "type": "fontFamilies"
     }
   },
   "font-weight": {
     "value": "Regular",
     "type": "fontWeights"
+  },
+  "font-size": {
+    "value": 16,
+    "type": "fontSizes"
   }
 }
