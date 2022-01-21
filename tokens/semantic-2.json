@@ -31,35 +31,6 @@
       "type": "sizing"
     }
   },
-  "font": {
-    "large": {
-      "value": {
-        "0": "{",
-        "1": "A",
-        "2": "c",
-        "3": "t",
-        "4": "i",
-        "5": "o",
-        "6": "n",
-        "7": "s",
-        "8": ".",
-        "9": "B",
-        "10": "a",
-        "11": "s",
-        "12": "e",
-        "13": "}",
-        "fontFamily": "Roboto Mono",
-        "fontWeight": "Medium",
-        "lineHeight": 24,
-        "fontSize": 16,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "type": "typography"
-    }
-  },
   "color": {
     "primary": {
       "default": {
