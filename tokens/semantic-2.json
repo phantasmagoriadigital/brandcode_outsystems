@@ -48,7 +48,7 @@
         "11": "s",
         "12": "e",
         "13": "}",
-        "fontFamily": "{fonrFamilies.mono}",
+        "fontFamily": "Roboto Mono",
         "fontWeight": "Medium",
         "lineHeight": 24,
         "fontSize": 16,
